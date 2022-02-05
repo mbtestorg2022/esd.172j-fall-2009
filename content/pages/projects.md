@@ -6,14 +6,117 @@ uid: d425ae9e-b9e4-bb95-95e4-5899a41fc668
 
 Examples of the elevator pitch and prize matrix assignments are student work, and are used with permission.
 
-| PROJECT COMPONENTS | DUE DATES | FILES |
-| --- | --- | --- |
-| Elevator pitch | Ses #7 |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mitesd_172jf09_pitch)) {{< br >}}{{< br >}} Examples ([PDF]({{< baseurl >}}/resources/mitesd_172jf09_pitch_sol)) {{< br >}}{{< br >}}  |
-| Team contract, advisors, resources | Ses #9 | ([PDF]({{< baseurl >}}/resources/mitesd_172jf09_contracts)) |
-| Niche analysis outline; key resources summary | Ses #11 | ([PDF]({{< baseurl >}}/resources/mitesd_172jf09_proj_mid)) |
-| Prize matrix |  {{< br >}}{{< br >}} Draft, Ses #19 {{< br >}}{{< br >}} Final, Ses #21 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mitesd_172jf09_matrix)) {{< br >}}{{< br >}} Examples ([PDF]({{< baseurl >}}/resources/mitesd_172jf09_matrix_sol)) {{< br >}}{{< br >}}  |
-| Final presentations |  {{< br >}}{{< br >}} Practice, Ses #23 {{< br >}}{{< br >}} Final, Ses #24 {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mitesd_172jf09_proj_final)) |
-| Final reports | Ses #24 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROJECT COMPONENTS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+{{< thopen >}}
+FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Elevator pitch
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mitesd_172jf09_pitch))
+
+Examples ([PDF]({{< baseurl >}}/resources/mitesd_172jf09_pitch_sol))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team contract, advisors, resources
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #9
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitesd_172jf09_contracts))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Niche analysis outline; key resources summary
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #11
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitesd_172jf09_proj_mid))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prize matrix
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Draft, Ses #19
+
+Final, Ses #21
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mitesd_172jf09_matrix))
+
+Examples ([PDF]({{< baseurl >}}/resources/mitesd_172jf09_matrix_sol))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Practice, Ses #23
+
+Final, Ses #24
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitesd_172jf09_proj_final))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final reports
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #24
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 As part of the final presentations, students created 1-2 minute video pitches for their project concept.
 
