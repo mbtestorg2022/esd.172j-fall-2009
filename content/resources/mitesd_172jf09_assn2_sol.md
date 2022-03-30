@@ -4,6 +4,7 @@ description: This resource contains the information regarding Historical Prize S
   student work.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/195a2aad8782b3b089f3af6ad7ea566a_MITESD_172JF09_assn2_sol.pdf
 file_type: application/pdf
+parent_uid: 1b0ed8a8-02b2-05e5-d530-01c089d4e3da
 resourcetype: Document
 title: Historical Prize Summary student work
 uid: 195a2aad-8782-b3b0-89f3-af6ad7ea566a
